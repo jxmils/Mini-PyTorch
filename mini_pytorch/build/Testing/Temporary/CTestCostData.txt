@@ -1,0 +1,9 @@
+TensorTest.Creation 1 0.00686225
+TensorTest.ShapeAsString 1 0.00626979
+TensorTest.Addition 1 0.00623487
+TensorTest.Subtraction 1 0.007021
+TensorTest.Multiplication 1 0.00607554
+TensorTest.Division 0 0
+TensorTest.ShapeMismatchError 1 0.00616854
+---
+TensorTest.Division
